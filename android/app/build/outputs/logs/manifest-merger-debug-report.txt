@@ -1,0 +1,209 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /media/alvina/40E86252E86245EE/project/great-master/packages/app-hotel/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /media/alvina/40E86252E86245EE/project/great-master/packages/app-hotel/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /media/alvina/40E86252E86245EE/project/great-master/packages/app-hotel/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /media/alvina/40E86252E86245EE/project/great-master/packages/app-hotel/android/app/src/main/AndroidManifest.xml:1:1-27:12
+MERGED from [:react-native-vector-icons] /media/alvina/40E86252E86245EE/project/great-master/packages/app-hotel/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.58.3] /home/alvina/.gradle/caches/transforms-1/files-1.1/react-native-0.58.3.aar/ff516ebb3c423a7c145f479c3fe7105a/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/3295f5861cf3e5c58f949f635d87e447/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/de760f85a3d95c0bfea635d39b708d42/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/d389839cc4ca26f175e0afae274ec386/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/5df0b1d013a0185c283d3ee8d8ffb01f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/70d1134c515265cd0dce55efa94f7bd8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/90e005975fc91b1f555d3ce70cd3a384/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/d888d09908a00db3563cec8a1090cc93/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/6b2819351d25d419744b0ef07cebfb2e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/07364ed1f8cd80d6c4cef4b152a15126/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/c81b634aab49e7b307d82e6fa94b9b06/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/58267c67fdebc99381606f945f18fd7b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/a156e7e12671558b333ddb8b84bbf406/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/dc423581e8998db4fa7107dd38cb1c30/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/a262342f5d1e062297d2b2a006445e26/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/04cb89374f2af685b666925bf35f64e0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/986253ef01a40b7f563eefe97f654408/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/5487be50f234259a2dc20dec9517e385/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/alvina/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a464f0fa8717c5da67c2ffae98ccc815/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/6c5717b97cbb794c1b4722c8812b75a0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/56df7357a7fd71d071efcdbf183a3248/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/fe0028eaa69e0231f3043dd09ac5fe4f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/alvina/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/07e8c5ac2168a1206106d4860c7b0243/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/alvina/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/9c44f572871788c38ee874ad34040de0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/alvina/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/63c5ab5c20eff6e581a32bbbbe5e2696/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/alvina/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/96cb7b97cee7cf813186b06395c09f71/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/a389d4eb2a2fb3587a1ea88be6240a6f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/2fce5cbb32d987f5f01dd8efe6cba61e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/3b5e147fea32f2d4c904e5f7ae36b1f8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/dcf42ac1c60a2096448f68e1c4cb4ab6/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/0d2c7c2f83186ac61de6fa559d47d9a1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/608a1f890db2cdaa1af6b06d31708b3a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/alvina/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/43c4493d0e0eecacb33c448397b0d003/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /home/alvina/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/0e32864d144d3d922733844fc29d74e8/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/9190ad271b6419ebe5da1d2ede3708fc/AndroidManifest.xml:2:1-9:12
+INJECTED from /media/alvina/40E86252E86245EE/project/great-master/packages/app-hotel/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /media/alvina/40E86252E86245EE/project/great-master/packages/app-hotel/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /media/alvina/40E86252E86245EE/project/great-master/packages/app-hotel/android/app/src/main/AndroidManifest.xml:1:1-27:12
+	package
+		ADDED from /media/alvina/40E86252E86245EE/project/great-master/packages/app-hotel/android/app/src/main/AndroidManifest.xml:2:5-24
+		INJECTED from /media/alvina/40E86252E86245EE/project/great-master/packages/app-hotel/android/app/src/main/AndroidManifest.xml
+		INJECTED from /media/alvina/40E86252E86245EE/project/great-master/packages/app-hotel/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /media/alvina/40E86252E86245EE/project/great-master/packages/app-hotel/android/app/src/main/AndroidManifest.xml
+		ADDED from /media/alvina/40E86252E86245EE/project/great-master/packages/app-hotel/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /media/alvina/40E86252E86245EE/project/great-master/packages/app-hotel/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /media/alvina/40E86252E86245EE/project/great-master/packages/app-hotel/android/app/src/main/AndroidManifest.xml
+		ADDED from /media/alvina/40E86252E86245EE/project/great-master/packages/app-hotel/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /media/alvina/40E86252E86245EE/project/great-master/packages/app-hotel/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /media/alvina/40E86252E86245EE/project/great-master/packages/app-hotel/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /media/alvina/40E86252E86245EE/project/great-master/packages/app-hotel/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /media/alvina/40E86252E86245EE/project/great-master/packages/app-hotel/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /media/alvina/40E86252E86245EE/project/great-master/packages/app-hotel/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.58.3] /home/alvina/.gradle/caches/transforms-1/files-1.1/react-native-0.58.3.aar/ff516ebb3c423a7c145f479c3fe7105a/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.58.3] /home/alvina/.gradle/caches/transforms-1/files-1.1/react-native-0.58.3.aar/ff516ebb3c423a7c145f479c3fe7105a/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /media/alvina/40E86252E86245EE/project/great-master/packages/app-hotel/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /media/alvina/40E86252E86245EE/project/great-master/packages/app-hotel/android/app/src/main/AndroidManifest.xml:7:5-25:19
+MERGED from [com.facebook.react:react-native:0.58.3] /home/alvina/.gradle/caches/transforms-1/files-1.1/react-native-0.58.3.aar/ff516ebb3c423a7c145f479c3fe7105a/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.58.3] /home/alvina/.gradle/caches/transforms-1/files-1.1/react-native-0.58.3.aar/ff516ebb3c423a7c145f479c3fe7105a/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/04cb89374f2af685b666925bf35f64e0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/04cb89374f2af685b666925bf35f64e0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/986253ef01a40b7f563eefe97f654408/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/986253ef01a40b7f563eefe97f654408/AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/alvina/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/43c4493d0e0eecacb33c448397b0d003/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/alvina/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/43c4493d0e0eecacb33c448397b0d003/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /home/alvina/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/0e32864d144d3d922733844fc29d74e8/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /home/alvina/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/0e32864d144d3d922733844fc29d74e8/AndroidManifest.xml:2:3-17
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/04cb89374f2af685b666925bf35f64e0/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /media/alvina/40E86252E86245EE/project/great-master/packages/app-hotel/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:roundIcon
+		ADDED from /media/alvina/40E86252E86245EE/project/great-master/packages/app-hotel/android/app/src/main/AndroidManifest.xml:11:7-52
+	android:icon
+		ADDED from /media/alvina/40E86252E86245EE/project/great-master/packages/app-hotel/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /media/alvina/40E86252E86245EE/project/great-master/packages/app-hotel/android/app/src/main/AndroidManifest.xml:12:7-34
+	android:theme
+		ADDED from /media/alvina/40E86252E86245EE/project/great-master/packages/app-hotel/android/app/src/main/AndroidManifest.xml:13:7-38
+	android:name
+		ADDED from /media/alvina/40E86252E86245EE/project/great-master/packages/app-hotel/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.hotel.MainActivity
+ADDED from /media/alvina/40E86252E86245EE/project/great-master/packages/app-hotel/android/app/src/main/AndroidManifest.xml:14:7-23:18
+	android:label
+		ADDED from /media/alvina/40E86252E86245EE/project/great-master/packages/app-hotel/android/app/src/main/AndroidManifest.xml:16:9-41
+	android:windowSoftInputMode
+		ADDED from /media/alvina/40E86252E86245EE/project/great-master/packages/app-hotel/android/app/src/main/AndroidManifest.xml:18:9-51
+	android:configChanges
+		ADDED from /media/alvina/40E86252E86245EE/project/great-master/packages/app-hotel/android/app/src/main/AndroidManifest.xml:17:9-79
+	android:name
+		ADDED from /media/alvina/40E86252E86245EE/project/great-master/packages/app-hotel/android/app/src/main/AndroidManifest.xml:15:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /media/alvina/40E86252E86245EE/project/great-master/packages/app-hotel/android/app/src/main/AndroidManifest.xml:19:9-22:25
+action#android.intent.action.MAIN
+ADDED from /media/alvina/40E86252E86245EE/project/great-master/packages/app-hotel/android/app/src/main/AndroidManifest.xml:20:13-65
+	android:name
+		ADDED from /media/alvina/40E86252E86245EE/project/great-master/packages/app-hotel/android/app/src/main/AndroidManifest.xml:20:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /media/alvina/40E86252E86245EE/project/great-master/packages/app-hotel/android/app/src/main/AndroidManifest.xml:21:13-73
+	android:name
+		ADDED from /media/alvina/40E86252E86245EE/project/great-master/packages/app-hotel/android/app/src/main/AndroidManifest.xml:21:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /media/alvina/40E86252E86245EE/project/great-master/packages/app-hotel/android/app/src/main/AndroidManifest.xml:24:7-84
+	android:name
+		ADDED from /media/alvina/40E86252E86245EE/project/great-master/packages/app-hotel/android/app/src/main/AndroidManifest.xml:24:17-81
+uses-sdk
+INJECTED from /media/alvina/40E86252E86245EE/project/great-master/packages/app-hotel/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /media/alvina/40E86252E86245EE/project/great-master/packages/app-hotel/android/app/src/main/AndroidManifest.xml
+INJECTED from /media/alvina/40E86252E86245EE/project/great-master/packages/app-hotel/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-vector-icons] /media/alvina/40E86252E86245EE/project/great-master/packages/app-hotel/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /media/alvina/40E86252E86245EE/project/great-master/packages/app-hotel/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.58.3] /home/alvina/.gradle/caches/transforms-1/files-1.1/react-native-0.58.3.aar/ff516ebb3c423a7c145f479c3fe7105a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.58.3] /home/alvina/.gradle/caches/transforms-1/files-1.1/react-native-0.58.3.aar/ff516ebb3c423a7c145f479c3fe7105a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/3295f5861cf3e5c58f949f635d87e447/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/3295f5861cf3e5c58f949f635d87e447/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/de760f85a3d95c0bfea635d39b708d42/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/de760f85a3d95c0bfea635d39b708d42/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/d389839cc4ca26f175e0afae274ec386/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/d389839cc4ca26f175e0afae274ec386/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/5df0b1d013a0185c283d3ee8d8ffb01f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/5df0b1d013a0185c283d3ee8d8ffb01f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/70d1134c515265cd0dce55efa94f7bd8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/70d1134c515265cd0dce55efa94f7bd8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/90e005975fc91b1f555d3ce70cd3a384/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/90e005975fc91b1f555d3ce70cd3a384/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/d888d09908a00db3563cec8a1090cc93/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/d888d09908a00db3563cec8a1090cc93/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/6b2819351d25d419744b0ef07cebfb2e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/6b2819351d25d419744b0ef07cebfb2e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/07364ed1f8cd80d6c4cef4b152a15126/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/07364ed1f8cd80d6c4cef4b152a15126/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/c81b634aab49e7b307d82e6fa94b9b06/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/c81b634aab49e7b307d82e6fa94b9b06/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/58267c67fdebc99381606f945f18fd7b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/58267c67fdebc99381606f945f18fd7b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/a156e7e12671558b333ddb8b84bbf406/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/a156e7e12671558b333ddb8b84bbf406/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/dc423581e8998db4fa7107dd38cb1c30/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/dc423581e8998db4fa7107dd38cb1c30/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/a262342f5d1e062297d2b2a006445e26/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/a262342f5d1e062297d2b2a006445e26/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/04cb89374f2af685b666925bf35f64e0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/04cb89374f2af685b666925bf35f64e0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/986253ef01a40b7f563eefe97f654408/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/986253ef01a40b7f563eefe97f654408/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/5487be50f234259a2dc20dec9517e385/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/5487be50f234259a2dc20dec9517e385/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/alvina/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a464f0fa8717c5da67c2ffae98ccc815/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/alvina/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a464f0fa8717c5da67c2ffae98ccc815/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/6c5717b97cbb794c1b4722c8812b75a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/6c5717b97cbb794c1b4722c8812b75a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/56df7357a7fd71d071efcdbf183a3248/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/56df7357a7fd71d071efcdbf183a3248/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/fe0028eaa69e0231f3043dd09ac5fe4f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/fe0028eaa69e0231f3043dd09ac5fe4f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/alvina/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/07e8c5ac2168a1206106d4860c7b0243/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/alvina/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/07e8c5ac2168a1206106d4860c7b0243/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/alvina/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/9c44f572871788c38ee874ad34040de0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/alvina/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/9c44f572871788c38ee874ad34040de0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/alvina/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/63c5ab5c20eff6e581a32bbbbe5e2696/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/alvina/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/63c5ab5c20eff6e581a32bbbbe5e2696/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/alvina/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/96cb7b97cee7cf813186b06395c09f71/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/alvina/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/96cb7b97cee7cf813186b06395c09f71/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/a389d4eb2a2fb3587a1ea88be6240a6f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/a389d4eb2a2fb3587a1ea88be6240a6f/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/2fce5cbb32d987f5f01dd8efe6cba61e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/2fce5cbb32d987f5f01dd8efe6cba61e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/3b5e147fea32f2d4c904e5f7ae36b1f8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/3b5e147fea32f2d4c904e5f7ae36b1f8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/dcf42ac1c60a2096448f68e1c4cb4ab6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/dcf42ac1c60a2096448f68e1c4cb4ab6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/0d2c7c2f83186ac61de6fa559d47d9a1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/0d2c7c2f83186ac61de6fa559d47d9a1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/608a1f890db2cdaa1af6b06d31708b3a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/608a1f890db2cdaa1af6b06d31708b3a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/alvina/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/43c4493d0e0eecacb33c448397b0d003/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/alvina/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/43c4493d0e0eecacb33c448397b0d003/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/9190ad271b6419ebe5da1d2ede3708fc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/alvina/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/9190ad271b6419ebe5da1d2ede3708fc/AndroidManifest.xml:5:5-7:41
+INJECTED from /media/alvina/40E86252E86245EE/project/great-master/packages/app-hotel/android/app/src/main/AndroidManifest.xml
+INJECTED from /media/alvina/40E86252E86245EE/project/great-master/packages/app-hotel/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /media/alvina/40E86252E86245EE/project/great-master/packages/app-hotel/android/app/src/main/AndroidManifest.xml
+		ADDED from /media/alvina/40E86252E86245EE/project/great-master/packages/app-hotel/android/app/src/main/AndroidManifest.xml
+		INJECTED from /media/alvina/40E86252E86245EE/project/great-master/packages/app-hotel/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /media/alvina/40E86252E86245EE/project/great-master/packages/app-hotel/android/app/src/main/AndroidManifest.xml
+		ADDED from /media/alvina/40E86252E86245EE/project/great-master/packages/app-hotel/android/app/src/main/AndroidManifest.xml
+		INJECTED from /media/alvina/40E86252E86245EE/project/great-master/packages/app-hotel/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /media/alvina/40E86252E86245EE/project/great-master/packages/app-hotel/android/app/src/main/AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /media/alvina/40E86252E86245EE/project/great-master/packages/app-hotel/android/app/src/main/AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /media/alvina/40E86252E86245EE/project/great-master/packages/app-hotel/android/app/src/main/AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

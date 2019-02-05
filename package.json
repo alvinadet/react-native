@@ -1,0 +1,49 @@
+{
+  "name": "@great/app-hotel",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "workspaces": {
+    "nohoist": [
+      "**"
+    ]
+  },
+  "dependencies": {
+    "@great/core-app": "0.0.1",
+    "@great/core-lib": "0.0.1",
+    "anoa": "^0.0.5",
+    "react": "16.6.3",
+    "react-native": "0.58.3",
+    "react-native-elements": "^1.0.0",
+    "react-native-vector-icons": "^6.2.0",
+    "react-navigation": "2.18.2"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-decorators": "7.1.6",
+    "@types/react": "^16.8.1",
+    "@types/react-native": "^0.57.32",
+    "@types/react-native-elements": "^0.18.0",
+    "@types/react-native-vector-icons": "^4.6.4",
+    "@types/react-navigation": "^3.0.1",
+    "babel-core": "7.0.0-bridge.0",
+    "babel-jest": "24.0.0",
+    "babel-merge": "^2.0.1",
+    "jest": "24.0.0",
+    "metro-react-native-babel-preset": "0.51.1",
+    "react-native-typescript-transformer": "^1.2.11",
+    "react-test-renderer": "16.6.3",
+    "tslint": "^5.12.1",
+    "tslint-config-prettier": "^1.17.0",
+    "tslint-react": "^3.6.0",
+    "typescript": "^3.3.1"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "anoa": {
+    "preset": "react-native-init"
+  }
+}

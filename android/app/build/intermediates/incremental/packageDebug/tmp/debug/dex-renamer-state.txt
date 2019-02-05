@@ -1,0 +1,4 @@
+#Tue Feb 05 14:19:43 WIB 2019
+base.0=/media/alvina/40E86252E86245EE/project/great-master/packages/app-hotel/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex
